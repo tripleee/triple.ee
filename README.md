@@ -1,5 +1,3 @@
-# triple.ee
-
 In my copious free time, I populate this web site.
 
 * [https://tripleee.github.io/8bit/](https://tripleee.github.io/8bit/)
